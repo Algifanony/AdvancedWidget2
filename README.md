@@ -1,8 +1,8 @@
 # AdvancedWidget2
 
 >###Screenshot
->![Screenshot](https://github.com/Algifanony/AdvanceWidget1/blob/master/2.jpg)
->![Screenshot](https://github.com/Algifanony/AdvanceWidget1/blob/master/2.1.jpg)
+>![Screenshot](https://github.com/Algifanony/AdvancedWidget2/blob/master/2.jpg)
+>![Screenshot](https://github.com/Algifanony/AdvancedWidget2/blob/master/2.1.jpg)
 
 Nama : Ghifary Maulana Fanony
 
